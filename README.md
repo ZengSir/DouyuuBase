@@ -22,7 +22,7 @@ pod 'DouyuuBase'
 
 ## Author
 
-zwlxtu@163.com, yuxuan@douyuu.cn
+zwlxtu@163.com, weilin@douyuu.cn
 
 ## License
 
