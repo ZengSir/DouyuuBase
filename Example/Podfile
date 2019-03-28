@@ -1,0 +1,13 @@
+use_frameworks!
+
+target 'DouyuuBase_Example' do
+  # pod 'DouyuuBase', :path => '../'
+
+  pod 'Kingfisher', '~> 4.0.0'
+  
+  target 'DouyuuBase_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
